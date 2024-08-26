@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="DB-242.20224.385">
+    <data-source name="dev@smartcity-cluster.cazqa7b9v6x7.us-east-1.redshift.amazonaws.com" uuid="6ff1f1af-d0f5-4bea-9787-dec1d72d1217">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="REDSHIFT" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>awsuser</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
